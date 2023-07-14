@@ -13,8 +13,14 @@
 
 ## 资源目录
 - [环境管理](#环境管理)
- - [管理 Python 版本和环境的工具](#管理 Python 版本和环境的工具)
 - [特殊文本格式处理](#特殊文本格式处理)
+ - [通用](#通用)
+ - [Office](#Office)
+ - [PDF](#PDF)
+ - [Markdown](#Markdown)
+ - [YAML](#YAML)
+ - [CSV](#CSV)
+ - [Archive](#Archive)
 
 ## 资源列表
 
